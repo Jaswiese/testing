@@ -1,0 +1,36 @@
+[33mcommit 4521d59ff1b07858c5d0d3f19cef1a6f792d8022[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: jasperwiese <jasper.wiese@protonmail.com>
+Date:   Mon Nov 13 10:06:39 2023 +0200
+
+    added main.go with empty main function
+
+[33mcommit 81f65cc493793078b204c939c6697921414d7a93[m[33m ([m[1;31morigin/main[m[33m)[m
+Merge: 8bb394a fbdd300
+Author: jasperwiese <jasper.wiese@protonmail.com>
+Date:   Mon Nov 13 09:57:38 2023 +0200
+
+    Merge branch 'main' of github.com:jaswiese/testing
+
+[33mcommit 8bb394a5f20591c8d4f5a0f35f1f20e56c640b73[m
+Author: jasperwiese <jasper.wiese@protonmail.com>
+Date:   Mon Nov 13 09:25:00 2023 +0200
+
+    Added a README file to the repository
+
+[33mcommit fbdd3002e96d847ba757b456cd8041e8abfb63cf[m
+Author: Jaswiese <68103468+Jaswiese@users.noreply.github.com>
+Date:   Mon Nov 13 09:19:37 2023 +0200
+
+    Initial commit
+
+[33mcommit 84db306ebc6bb69733583c748ca9dcf50844ca4c[m
+Author: jasperwiese <jasper.wiese@protonmail.com>
+Date:   Fri Nov 10 13:59:20 2023 +0200
+
+    added body{} in main.css
+
+[33mcommit 2ede3967ba6215f2ccdee9c92f6a0d5e54e1360f[m
+Author: jasperwiese <jasper.wiese@protonmail.com>
+Date:   Fri Nov 10 13:35:53 2023 +0200
+
+    bootstraptest
